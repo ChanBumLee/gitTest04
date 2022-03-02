@@ -5,4 +5,8 @@ public class BoardService {
     	
     }
     
+    public void test() {
+    	
+    }
+    
 }
