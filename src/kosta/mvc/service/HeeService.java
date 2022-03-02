@@ -1,6 +1,6 @@
 package kosta.mvc.service;
 
 public class HeeService {
-    public void insert() {}
+    public void heejung() {}
     
 }
